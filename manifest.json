@@ -1,0 +1,41 @@
+{
+  "repo": "mavranem94/venture-studio-bots",
+  "branch": "main",
+  "raw_base": "https://raw.githubusercontent.com/mavranem94/venture-studio-bots/main",
+  "products": {
+    "venture-os": {
+      "version": "1.3.1",
+      "released": "2026-11-06",
+      "skills": [
+        {
+          "name": "venture-os",
+          "path": "venture-os/SKILL.md",
+          "url": "https://raw.githubusercontent.com/mavranem94/venture-studio-bots/main/venture-os/SKILL.md"
+        },
+        {
+          "name": "venture-os-getting-started",
+          "path": "venture-os/getting-started/SKILL.md",
+          "url": "https://raw.githubusercontent.com/mavranem94/venture-studio-bots/main/venture-os/getting-started/SKILL.md"
+        }
+      ],
+      "changelog": "Added update command: pull newer skills from this public GitHub repo while keeping memory, routines and connections. Version line for comparison. Optional opt-in monthly light check (default off)."
+    },
+    "companion": {
+      "version": "1.1.1",
+      "released": "2026-11-06",
+      "skills": [
+        {
+          "name": "companion",
+          "path": "companion/SKILL.md",
+          "url": "https://raw.githubusercontent.com/mavranem94/venture-studio-bots/main/companion/SKILL.md"
+        },
+        {
+          "name": "companion-getting-started",
+          "path": "companion/getting-started/SKILL.md",
+          "url": "https://raw.githubusercontent.com/mavranem94/venture-studio-bots/main/companion/getting-started/SKILL.md"
+        }
+      ],
+      "changelog": "Added update command: pull newer skills from this public GitHub repo while keeping memory, routines and connections. Version line for comparison. Optional opt-in monthly light check (default off)."
+    }
+  }
+}
