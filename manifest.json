@@ -4,7 +4,7 @@
   "raw_base": "https://raw.githubusercontent.com/mavranem94/venture-studio-bots/main",
   "products": {
     "venture-os": {
-      "version": "1.3.1",
+      "version": "1.4.0",
       "released": "2026-11-06",
       "skills": [
         {
@@ -18,10 +18,10 @@
           "url": "https://raw.githubusercontent.com/mavranem94/venture-studio-bots/main/venture-os/getting-started/SKILL.md"
         }
       ],
-      "changelog": "Added update command: pull newer skills from this public GitHub repo while keeping memory, routines and connections. Version line for comparison. Optional opt-in monthly light check (default off)."
+      "changelog": "Onboarding that feels like a service: a welcome contract with a Start fresh / Bring my history card, a Founder HQ Page that builds beside the chat, chapter-style steps, reveal moments with Looks right / Fix something, and a closing 'Here's what we built today'. Bring your history: copy-paste export prompts for ChatGPT, Claude and docs, read newest-first into a decision log. 'Your business as I understand it' playback with facts to confirm; north star and raise-vs-bootstrap questions. CEO/chief-of-staff operating contract; three-layer org chart sized to your hours with a phase-in plan. Dump-and-route with a state-of-affairs report, a parallel fast lane, parked decisions and recurring exports. New commands: overview, hq, import, route, affairs, decisions, fast lane."
     },
     "companion": {
-      "version": "1.1.1",
+      "version": "1.2.0",
       "released": "2026-11-06",
       "skills": [
         {
@@ -35,7 +35,7 @@
           "url": "https://raw.githubusercontent.com/mavranem94/venture-studio-bots/main/companion/getting-started/SKILL.md"
         }
       ],
-      "changelog": "Added update command: pull newer skills from this public GitHub repo while keeping memory, routines and connections. Version line for comparison. Optional opt-in monthly light check (default off)."
+      "changelog": "Warm optional two-path onboarding; import chosen AI threads, notes and spreadsheets with privacy checks and dated decisions/preferences. Home HQ, confirmed playback and gap-only questions. Year goal, confirmed people and a light working agreement. Audit-then-connect services, dump-and-sort, one urgent fast lane and parked big decisions. Monthly state of the home folded into the existing self-review with the shared weekly cap. New commands: import, hq, sort. Existing approval, vault, bill-switch and update safeguards retained."
     }
   }
 }
