@@ -27,7 +27,7 @@ You do not need to download a new bot.
 
 | Product | Current version | Released |
 |---|---|---|
-| Venture OS | 1.4.0 | 2026-11-06 |
+| Venture OS | 1.5.0 | 2026-11-06 |
 | Companion | 1.2.0 | 2026-11-06 |
 
 ## Layout

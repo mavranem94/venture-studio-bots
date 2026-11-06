@@ -4,7 +4,7 @@
   "raw_base": "https://raw.githubusercontent.com/mavranem94/venture-studio-bots/main",
   "products": {
     "venture-os": {
-      "version": "1.4.0",
+      "version": "1.5.0",
       "released": "2026-11-06",
       "skills": [
         {
@@ -18,7 +18,7 @@
           "url": "https://raw.githubusercontent.com/mavranem94/venture-studio-bots/main/venture-os/getting-started/SKILL.md"
         }
       ],
-      "changelog": "Onboarding that feels like a service: a welcome contract with a Start fresh / Bring my history card, a Founder HQ Page that builds beside the chat, chapter-style steps, reveal moments with Looks right / Fix something, and a closing 'Here's what we built today'. Bring your history: copy-paste export prompts for ChatGPT, Claude and docs, read newest-first into a decision log. 'Your business as I understand it' playback with facts to confirm; north star and raise-vs-bootstrap questions. CEO/chief-of-staff operating contract; three-layer org chart sized to your hours with a phase-in plan. Dump-and-route with a state-of-affairs report, a parallel fast lane, parked decisions and recurring exports. New commands: overview, hq, import, route, affairs, decisions, fast lane."
+      "changelog": "Operating desks for physical product businesses selling through retail, wholesale or marketplaces: an optional overlay that records category, channels and operating stage without redoing setup. Cash and deductions desk (order to bank receipt, short-payments classified, dispute and collection drafts, cash forecast). Supply assurance (fit brief, matched quotes, references and trial gate, contract packet, warehouse tests, backup capacity). Private intel bank for your own recommendations with date, fit, conflicts and outcomes. Risk preflight card, including calling a known number before paying changed bank details. Retail desk (readiness pack, account register, reorders) and a creator tracker. New commands: cash, deductions, collections, source, vet supplier, switch supplier, intel, find, outcome, preflight, retail ready, accounts, creators. Payments, disputes and outreach stay drafts you send."
     },
     "companion": {
       "version": "1.2.0",

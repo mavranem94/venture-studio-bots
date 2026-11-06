@@ -2,6 +2,17 @@
 
 ## Venture OS
 
+### 1.5.0 — 2026-11-06
+- Retail, wholesale and marketplace overlay for physical products: category, channels and operating stage captured once; existing trading brands go straight to the desks without redoing ideation. Other tracks are unchanged.
+- A buyer meeting, listing or sample request is not validation; a paid order or signed purchase order is.
+- Cash and deductions desk: each order followed from purchase order to bank receipt; short-payments classified (agreed, chargeback, disputed, duplicate, unknown); dispute packets, polite collection drafts and a dated cash forecast. You send everything.
+- Channel contribution waterfall per SKU, channel and account; margin vs markup and sell-in vs sell-through kept apart.
+- Supply assurance: fit brief, matched quote requests, scorecard, references and a trial before a supplier counts as done, a contract packet for a lawyer, warehouse tests, switch plans and backup capacity.
+- Private intel bank: your own searchable recommendations with date, fit, source type, conflicts, contradictions and outcomes, de-duplicated.
+- Risk preflight card before payments, contracts, platform tie-ins, claims, reviews and legal or safety events, including calling a known number to confirm any change of bank details. Untrusted-input rule (G9).
+- Retail desk (readiness pack, account register, paperwork, reorders) and a creator tracker with one experiment readout.
+- Role mandates, state block, build checklist (B20–B24), rhythm, funding comparison, ageing-stock exits and legal screens extended. New commands: `cash`, `deductions`, `collections`, `source`, `vet supplier`, `switch supplier`, `intel`, `find`, `outcome`, `preflight`, `retail ready`, `accounts`, `creators`.
+
 ### 1.4.0 — 2026-11-06
 - Welcome contract: every first message says who I am (your chief of staff; you're the CEO), what we'll do today (about 20 minutes, 7 steps) and what you'll leave with, then a **Start fresh / Bring my history** card. No open-ended "how can I help?".
 - Founder HQ Page: a "<Business name> HQ" Page builds beside the chat and fills in at each step (snapshot, north star, decisions, org chart diagram, tools, 30-day plan, parked decisions, Later list, state of affairs). Fallback: pinned summary or a drive doc.

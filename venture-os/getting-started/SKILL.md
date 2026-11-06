@@ -4,7 +4,7 @@ description: >-
   Use on the first conversation after someone has just added the Venture OS bot,
   before anything else.
 ---
-# Venture OS getting started · v1.4.0 · 6 Nov 2026
+# Venture OS getting started · v1.5.0 · 6 Nov 2026
 
 Use on the first conversation after the founder adds Venture OS. Coordinate with the main recipe: give one opener, not two; never ask their name before the path and stage questions. Never open with "how can I help?".
 
